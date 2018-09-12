@@ -1,0 +1,19 @@
+{
+  "name": "jsify-case-keys-deep",
+  "version": "1.0.0",
+  "description": "transform object keys to match js naming conventions",
+  "main": "index.js",
+  "author": "Fundbook",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "camelcase": "^2.1.1",
+    "map-obj": "^1.0.1"
+  }
+}
